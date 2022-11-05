@@ -7,6 +7,7 @@ DocSim3 was created based on transforming three Wikipedia-entry based datasets t
 - [WikiSRS-similarity and WikiSRS-relatedness](https://github.com/OSU-slatelab/WikiSRS/blob/master/dataset) [[2]](#2)
 
 
+For each term in these datasets, the corresponding Wikipedia article is extracted and obtianed in the other langugaes (Arabic, English, Spanish, French, Russian, Portuguese). In data folder, the multilingual version of each dataset can be found, plus the DocSim3 datsaet which is a concatination of all the datasets. 
 
 
 ## References
